@@ -14,4 +14,8 @@ git remote -v
 vai listar a lista de repositórios cadastrados
 
 git push origin master
+empurrar  o repositório
+
+git pull origin master
+puxar o repositório
 
